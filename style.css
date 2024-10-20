@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Modak&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
 .button1 {
     appearance: none;
     background-color: #fff;
@@ -196,16 +197,37 @@ cursor: pointer;
     border: none;
     border-radius: 5px;
     font-size: 400%;
-    font-family: Kablammo, sans-serif;
+    font-family: Henny Penny, sans-serif;
 color: #000000;
 padding: 20px;
 margin: 20px;
 text-align: center;
 cursor: pointer;
 }
-.button3:hover {
-    box-shadow: 0 0 12px 4px rgba(0, 0, 0, 0.74);
+.button4:hover {
+    transform: translateY(-5px);
+    color: white;
 }
+.button4-2 {
+    background-color: #ff0000;
+    border: none;
+    border-radius: 5px;
+    font-size: 400%;
+    font-family: Henny Penny, sans-serif;
+color: #000000;
+padding: 20px;
+margin: 20px;
+text-align: center;
+cursor: pointer;
+}
+.button4-2:hover {
+    transform: translateY(-5px);
+    color: white;
+}
+.button5 {
+    
+}
+
 
 
 
